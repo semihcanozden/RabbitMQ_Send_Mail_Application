@@ -58,7 +58,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(375, 23);
             this.textBox1.TabIndex = 0;
-            this.textBox1.Text = "semih34_can55@hotmail.com";
             // 
             // button1
             // 
@@ -109,7 +108,6 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(375, 23);
             this.textBox2.TabIndex = 3;
-            this.textBox2.Text = "Test";
             // 
             // label2
             // 
@@ -138,7 +136,6 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(375, 155);
             this.textBox3.TabIndex = 5;
-            this.textBox3.Text = "Testİçerik";
             // 
             // label4
             // 
@@ -156,7 +153,6 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(375, 23);
             this.textBox4.TabIndex = 11;
-            this.textBox4.Text = "1903semih2002";
             this.textBox4.UseSystemPasswordChar = true;
             // 
             // label5
@@ -175,7 +171,6 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(375, 23);
             this.textBox5.TabIndex = 9;
-            this.textBox5.Text = "can.oz.den.semih@gmail.com";
             // 
             // pictureBox3
             // 
