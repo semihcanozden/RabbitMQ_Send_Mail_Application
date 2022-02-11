@@ -27,11 +27,7 @@
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
-            "projectReferences": {
-              "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj": {
-                "projectPath": "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

@@ -9,7 +9,7 @@
       "RabbitMQ_deneme1/1.0.0": {
         "dependencies": {
           "RabbitMQ.Client": "6.2.2",
-          "RabbitMQClass_deneme": "1.0.0"
+          "RabbitMQClass_deneme": "1.0.0.0"
         },
         "runtime": {
           "RabbitMQ_deneme1.dll": {}
@@ -29,12 +29,12 @@
       },
       "System.Memory/4.5.4": {},
       "System.Threading.Channels/4.7.1": {},
-      "RabbitMQClass_deneme/1.0.0": {
-        "dependencies": {
-          "RabbitMQ.Client": "6.2.2"
-        },
+      "RabbitMQClass_deneme/1.0.0.0": {
         "runtime": {
-          "RabbitMQClass_deneme.dll": {}
+          "RabbitMQClass_deneme.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -66,8 +66,8 @@
       "path": "system.threading.channels/4.7.1",
       "hashPath": "system.threading.channels.4.7.1.nupkg.sha512"
     },
-    "RabbitMQClass_deneme/1.0.0": {
-      "type": "project",
+    "RabbitMQClass_deneme/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

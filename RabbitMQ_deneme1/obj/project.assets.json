@@ -105,7 +105,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj",
       "RabbitMQ.Client >= 6.2.2"
     ]
   },
@@ -135,11 +134,7 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {
-            "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj": {
-              "projectPath": "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -178,16 +173,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "'C:\\Users\\semih\\Documents\\GitHub\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj' projesi bulunamadı. Proje başvurusunun geçerli olup olmadığını ve proje dosyasının mevcut olup olmadığını denetleyin.",
-      "libraryId": "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    }
-  ]
+  }
 }

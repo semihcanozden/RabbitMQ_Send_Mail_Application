@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ncINAhmBNsl1uVSL+329AHNqDbsaBabjcJScc539uln3+SUALQ+sOEuiC+H/5U+CqyIMsLwx4sIRUajPcv2ziQ==",
+  "dgSpecHash": "MITmYSvpz9yA0zvoDtE8GFCRydMaSKnZbFbA6NbAntVJeS1Gb2cba6qm2/HpS695Dq+1xct5hzEVdTB644lL3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\semih\\source\\repos\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj",
+  "projectFilePath": "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQ_Send_Mail_Application\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\semih\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
     "C:\\Users\\semih\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

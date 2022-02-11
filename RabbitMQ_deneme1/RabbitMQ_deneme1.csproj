@@ -13,7 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\RabbitMQClass_deneme\RabbitMQClass_deneme\RabbitMQClass_deneme.csproj" />
+    <Reference Include="RabbitMQClass_deneme">
+      <HintPath>..\RabbitMQClass_deneme\RabbitMQClass_deneme\bin\Debug\net6.0\RabbitMQClass_deneme.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <ItemGroup>
