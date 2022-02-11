@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {
+    "net6.0": {
       "RabbitMQ.Client/6.2.2": {
         "type": "package",
         "dependencies": {
@@ -104,8 +104,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": [
-      "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj",
+    "net6.0": [
       "RabbitMQ.Client >= 6.2.2"
     ]
   },
@@ -115,31 +114,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQ_Send_Mail_Application\\RabbitMQ_deneme1\\RabbitMQ_deneme1.csproj",
-      "projectName": "RabbitMQ_deneme1",
-      "projectPath": "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQ_Send_Mail_Application\\RabbitMQ_deneme1\\RabbitMQ_deneme1.csproj",
+      "projectUniqueName": "C:\\Users\\semih\\source\\repos\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj",
+      "projectName": "RabbitMQClass_deneme",
+      "projectPath": "C:\\Users\\semih\\source\\repos\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj",
       "packagesPath": "C:\\Users\\semih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQ_Send_Mail_Application\\RabbitMQ_deneme1\\obj\\",
+      "outputPath": "C:\\Users\\semih\\source\\repos\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\semih\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows7.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
-          "projectReferences": {
-            "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj": {
-              "projectPath": "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj"
-            }
-          }
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -149,8 +144,8 @@
       }
     },
     "frameworks": {
-      "net6.0-windows7.0": {
-        "targetAlias": "net6.0-windows",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "RabbitMQ.Client": {
             "target": "Package",
@@ -170,24 +165,10 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "'C:\\Users\\semih\\Documents\\GitHub\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj' projesi bulunamadı. Proje başvurusunun geçerli olup olmadığını ve proje dosyasının mevcut olup olmadığını denetleyin.",
-      "libraryId": "C:\\Users\\semih\\Documents\\GitHub\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    }
-  ]
+  }
 }

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ncINAhmBNsl1uVSL+329AHNqDbsaBabjcJScc539uln3+SUALQ+sOEuiC+H/5U+CqyIMsLwx4sIRUajPcv2ziQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semih\\source\\repos\\RabbitMQClass_deneme\\RabbitMQClass_deneme\\RabbitMQClass_deneme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semih\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\semih\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\semih\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
